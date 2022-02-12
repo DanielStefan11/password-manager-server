@@ -4,7 +4,8 @@
   "info": {
     "singularName": "password",
     "pluralName": "passwords",
-    "displayName": "password"
+    "displayName": "password",
+    "description": ""
   },
   "options": {
     "draftAndPublish": true
@@ -21,6 +22,12 @@
       "type": "password"
     },
     "title": {
+      "type": "string"
+    },
+    "siteUrl": {
+      "type": "string"
+    },
+    "faviconAddress": {
       "type": "string"
     }
   }
