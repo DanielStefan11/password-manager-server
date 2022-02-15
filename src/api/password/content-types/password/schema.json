@@ -29,6 +29,9 @@
     },
     "password": {
       "type": "string"
+    },
+    "favorite": {
+      "type": "boolean"
     }
   }
 }
